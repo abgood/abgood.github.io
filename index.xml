@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>June | 吕俊</title>
-    <link>https://abgood.github.io/</link>
+    <link>blog.dantn.com/</link>
     <description>Recent content on June | 吕俊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Sun, 08 Apr 2018 14:14:57 +0800</lastBuildDate>
     
-	<atom:link href="https://abgood.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.dantn.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links</title>
-      <link>https://abgood.github.io/links/</link>
+      <link>blog.dantn.com/links/</link>
       <pubDate>Sun, 08 Apr 2018 14:14:57 +0800</pubDate>
       
-      <guid>https://abgood.github.io/links/</guid>
+      <guid>blog.dantn.com/links/</guid>
       <description>Ritchie and his friends.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://abgood.github.io/about/</link>
+      <link>blog.dantn.com/about/</link>
       <pubDate>Sun, 08 Apr 2018 14:14:57 +0800</pubDate>
       
-      <guid>https://abgood.github.io/about/</guid>
+      <guid>blog.dantn.com/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
